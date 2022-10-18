@@ -29,9 +29,6 @@ public class PlusMinus {
         System.out.println(decimalFormat.format((double) zero / arr.size()));
     }
 
-}
-
-class Runner {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
@@ -44,5 +41,6 @@ class Runner {
         bufferedReader.close();
     }
 }
+
 
 
