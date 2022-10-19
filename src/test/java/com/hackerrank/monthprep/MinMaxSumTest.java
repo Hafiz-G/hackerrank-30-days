@@ -8,7 +8,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class MinMaxSumTest {
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
