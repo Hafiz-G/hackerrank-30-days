@@ -1,11 +1,11 @@
-package com.hackerrank.monthprep;
+package com.hackerrank.monthprep.week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.text.DecimalFormat;
 
-class TimeConversion {
+public class TimeConversion {
 
     public static String timeConversion(String s) {
         String[] time = s.split(":");

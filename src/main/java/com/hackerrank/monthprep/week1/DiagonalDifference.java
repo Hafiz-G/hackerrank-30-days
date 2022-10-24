@@ -1,4 +1,4 @@
-package com.hackerrank.monthprep;
+package com.hackerrank.monthprep.week1;
 
 
 import java.io.*;
@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
-class DiagonalDifference {
+public class DiagonalDifference {
     public static int diagonalDifference(List<List<Integer>> arr) {
         int leftSum = 0, rightSum = 0;
         for (int row = 0; row < arr.size(); row++) {

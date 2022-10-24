@@ -1,4 +1,4 @@
-package com.hackerrank.monthprep;
+package com.hackerrank.monthprep.week1;
 
 import java.util.Collections;
 import java.util.List;

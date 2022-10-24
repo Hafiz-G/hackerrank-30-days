@@ -1,4 +1,4 @@
-package com.hackerrank.monthprep;
+package com.hackerrank.monthprep.week1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
-class MinMaxSum {
+public class MinMaxSum {
 
     public static void miniMaxSum(List<Integer> arr) {
         // Write your code here

@@ -1,4 +1,4 @@
-package com.hackerrank.monthprep;
+package com.hackerrank.monthprep.week1;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
